@@ -57,7 +57,7 @@ y_pred = logr.predict_proba(x_test)
 #print (roc_auc_score(y1_test,y_pred))
 
 # penalty = l1 c =  0.10000000000000001  ---> 0.85395
-# penalty = l2 c =    ---->
+# penalty = l2 c =    ----->
 
 geneId=0
 #print(y_pred.shape)
